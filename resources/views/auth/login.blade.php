@@ -53,7 +53,7 @@
 
                     <p class="text-center text-muted mb-0">
                         Don't have an account?
-                        <a href="#" class="text-decoration-none">Register here</a>
+                        <a href="/register" class="text-decoration-none">Register here</a>
                     </p>
 
                 </div>

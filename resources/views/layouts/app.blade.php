@@ -23,9 +23,9 @@
                     <li class="nav-item"><a class="nav-link" href="/">Home</a></li>
                     <li class="nav-item"><a class="nav-link" href="#">About</a></li>
                     <li class="nav-item"><a class="nav-link" href="#">Contact</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#">Login</a></li>
+                   <li class="nav-item"><a class="nav-link" href="/login">Login</a></li>
                     <li class="nav-item">
-                        <a class="btn btn-light btn-sm ms-2 mt-1" href="#">Register</a>
+                    <a class="btn btn-light btn-sm ms-2 mt-1" href="/register">Register</a>
                     </li>
                 </ul>
             </div>

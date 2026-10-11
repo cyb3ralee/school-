@@ -9,10 +9,10 @@
         <div class="container text-center py-5">
             <h1 class="display-4 fw-bold">Welcome to School MS</h1>
             <p class="lead mb-4">A modern school management system for students, teachers, and administrators.</p>
-            <a href="#" class="btn btn-light btn-lg me-2">
+            <a href="/login" class="btn btn-light btn-lg me-2">
                 <i class="bi bi-box-arrow-in-right"></i> Login
             </a>
-            <a href="#" class="btn btn-outline-light btn-lg">
+            <a href="/register" class="btn btn-outline-light btn-lg">
                 <i class="bi bi-person-plus"></i> Register
             </a>
         </div>
@@ -59,7 +59,7 @@
         <div class="container text-center">
             <h3>Ready to get started?</h3>
             <p class="text-muted mb-3">Sign in to access your dashboard.</p>
-            <a href="#" class="btn btn-primary btn-lg">
+            <a href="/login" class="btn btn-primary btn-lg">
                 <i class="bi bi-box-arrow-in-right"></i> Login Now
             </a>
         </div>
